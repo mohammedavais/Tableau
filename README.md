@@ -1,2 +1,2 @@
-# Tablau Project
-This repository contains Power BI Practice sessions.
+# Tableau Project
+This repository contains Tableau Practice sessions.
